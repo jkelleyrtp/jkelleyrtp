@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm studying Systems Engineering at Olin College of Engineering!
+- I love to write Rust with an emphasis on performance and UX.
+- I love robots, simulation, and power electronics.
+- Check out my simulation engine powering [HASH.ai](https://HASH.ai).
+
 <!--
 **jkelleyrtp/jkelleyrtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
