@@ -2,8 +2,10 @@
 
 - I'm studying Systems Engineering at Olin College of Engineering!
 - I love to write Rust with an emphasis on performance and UX.
-- I love robots, simulation, and power electronics.
 - Check out my simulation engine powering [HASH.ai](https://HASH.ai).
+- Also check out my Rust-based React-alternative [Dioxus](https://github.com/jkelleyrtp/dioxus) and PaaS [Dioxus Labs](https://dioxuslabs.com)
+- I designed my own modular, open source, standing desk for purchase at [HackerDesk](https://hackerdesk.com)
+- Now, I'm building the future of asset tracking at [LEAF Systems](https://leaf-systems.com)
 
 <!--
 **jkelleyrtp/jkelleyrtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
