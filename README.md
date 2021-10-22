@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 - I'm studying Systems Engineering at Olin College of Engineering!
 - I love to write Rust with an emphasis on performance and UX.
