@@ -4,8 +4,11 @@
 - I love to write Rust with an emphasis on performance and DX.
 - Check out my simulation engine powering [HASH.ai](https://HASH.ai).
 
-![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg)
+<!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jkelleyrtp/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jkelleyrtp/repos?time_range=one_year&include_private=True)](https://githubtrends.io)
 
 
 <!--
