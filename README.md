@@ -4,7 +4,7 @@
 - I love to write Rust with an emphasis on performance and DX.
 - Check out my simulation engine powering [HASH.ai](https://HASH.ai).
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![overview](https://github.com/username/github-stats/blob/master/generated/overview.svg)
 
 
 
