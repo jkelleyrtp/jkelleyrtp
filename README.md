@@ -1,8 +1,11 @@
 ### Hi!
 
-- I'm studying Systems Engineering at Olin College of Engineering!
-- I love to write Rust with an emphasis on performance and UX.
+- I'm studying Systems Engineering at Olin College of Engineering
+- I love to write Rust with an emphasis on performance and DX.
 - Check out my simulation engine powering [HASH.ai](https://HASH.ai).
+
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+
 
 
 <!--
