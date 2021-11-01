@@ -6,12 +6,12 @@
 
 <!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
 
-
+<!-- 
 |   |  |
 | ------------- | ------------- |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jkelleyrtp/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)  | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jkelleyrtp/repos?time_range=one_year&include_private=True)](https://githubtrends.io)  |
 
-
+ -->
 
 
 
