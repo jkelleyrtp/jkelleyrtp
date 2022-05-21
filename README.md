@@ -1,7 +1,8 @@
-- I'm a Systems Engineer from Olin College of Engineering
+- I'm a Systems Engineer from Olin College of Engineering.
 - I love to write Rust with an emphasis on performance and DX.
 - I'll be starting with Cloudlfare Zero Trust this summer.
 - I'm the creator and lead maintainer of Dioxus.
+- I love resource-constrained computing (embedded, HPC, boostrapped startups).
 - Check out my simulation engine powering [HASH.ai](https://HASH.ai).
 
 <!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
