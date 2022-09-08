@@ -1,8 +1,7 @@
 - I'm a Systems Engineer at Cloudflare Zero Trust.
-- I love to write Rust with an emphasis on performance and DX.
 - I'm the creator and lead maintainer of Dioxus.
+- I love to write Rust with an emphasis on performance and DX.
 - My interests include networking, digital communications, systems programming, and eletronics.
-- Check out my simulation engine powering [HASH.ai](https://HASH.ai).
 
 <!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
 
