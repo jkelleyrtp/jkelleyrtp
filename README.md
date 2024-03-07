@@ -1,6 +1,6 @@
 - I'm the creator and lead maintainer of Dioxus.
 - I love to write Rust with an emphasis on performance and developer experience.
-- My interests include networking, digital communications, systems programming, and eletronics.
+- My interests include networking, digital communications, systems programming, and electronics.
 
 <!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
 
