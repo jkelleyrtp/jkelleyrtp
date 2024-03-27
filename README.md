@@ -2,6 +2,8 @@
 - I love to write Rust with an emphasis on performance and developer experience.
 - My interests include networking, digital communications, systems programming, and electronics.
 
+Nothing but positivity and optimisim. Build cool things ✌️
+
 <!-- ![overview](https://github.com/jkelleyrtp/personal-stats/blob/master/generated/overview.svg) -->
 
 <!-- 
